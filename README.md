@@ -7,7 +7,8 @@ Version History:
 
 V1. RPi Zero  
 V2. RPi Pico  
-V3. :shipit: :trollface: :octocat:
+<img src="/img/pcbV2-work-in-progress.png" alt="Sneak peak at version 2" width="200"/>  
+V3. :shipit: :trollface: :octocat:  
 
 ### [CODE](/main.py)
 
