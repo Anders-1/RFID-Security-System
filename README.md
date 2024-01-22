@@ -3,12 +3,13 @@ An RFID Security System based on the Raspberry Pi Pico (revised from the Zero to
 
 Version History:
 
-<!--If you put two spaces after a line it makes a new line but not as big 🤷-->
+<!-- If you put two spaces after a line it makes a new line but not as big 🤷 -->
 
 V1. RPi Zero  
 V2. RPi Pico  
 V3. :shipit: :trollface: :octocat:
 
+### [CODE](/main.py)
 
 [Tutorial 1](https://littlebirdelectronics.com.au/guides/181/nfc-module-with-raspberry-pi)
 
@@ -32,7 +33,8 @@ TODO: 
 
 - [ ] Check todo list in the code too
 
-NOTE: Design also works with RPi Zero
+> [!NOTE]
+> This design also works with RPi Zero
 
 Pinout:
 
