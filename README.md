@@ -1,6 +1,15 @@
 # RFID-Security-System
 An RFID Security System based on the Raspberry Pi Pico (revised from the Zero to Pico).
 
+Version History:
+
+<!--If you put two spaces after a line it makes a new line but not as big 🤷-->
+
+V1. RPi Zero  
+V2. RPi Pico  
+V3. :shipit: :trollface: :octocat:
+
+
 [Tutorial 1](https://littlebirdelectronics.com.au/guides/181/nfc-module-with-raspberry-pi)
 
 [Tutorial 2](https://learn.adafruit.com/adafruit-nfc-rfid-on-raspberry-pi/testing-it-out)
